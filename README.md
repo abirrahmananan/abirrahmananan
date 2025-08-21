@@ -1,35 +1,29 @@
-<!-- Header Section -->
-<h1 align="center">Hi there 👋, I'm Abir Rahman Anan</h1>
-<h3 align="center">🚀 MERN Stack Developer | Passionate about Web Development</h3>
+<!-- ======================= HEADER ======================= -->
+<h1 align="center">👋 Hi, I'm Abir Rahman Anan</h1>
+<h2 align="center">🌟 MERN Stack Developer | 🚀 Full Stack Enthusiast | 🌱 Lifelong Learner</h2>
 
 <div align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" height="150" />
 </div>
 
+<!-- Typing Animation -->
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Web+Developer;MERN+Stack+Specialist;Open+Source+Contributor;Always+Learning+New+Things" alt="Typing SVG" />
+</div>
+
 ---
 
-<!-- Badges & Profile Views -->
+<!-- ======================= PROFILE BADGES ======================= -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abirrahmananan&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=abirrahmananan&theme=onedark&margin-w=10" alt="trophies" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=abirrahmananan&label=Profile%20Views&color=FF69B4&style=for-the-badge" alt="profile views" />
+  <img src="https://img.shields.io/github/followers/abirrahmananan?label=Followers&style=for-the-badge&color=blueviolet" alt="followers"/>
+  <img src="https://img.shields.io/github/stars/abirrahmananan?label=Stars&style=for-the-badge&color=yellow" alt="stars"/>
 </p>
 
 ---
 
-## 🔥 About Me
-
-- 🔭 I’m currently working as a **MERN Stack Developer**
-- 🌱 I’m learning **Next.js • TypeScript • Tailwind CSS**
-- 👨‍💻 All of my projects are available [here](https://github.com/abirrahmananan?tab=repositories)
-- 💬 Ask me about **MongoDB • Express.js • React.js • Node.js**
-- 📫 Reach me at **abirrahmananan@gmail.com**
-- ⚡ Fun fact: *I debug faster with coffee ☕*
-
----
-
-## 🌐 Connect with Me
+<!-- ======================= CONNECT ======================= -->
+## 🌐 Connect with Me  
 
 <p align="center">
   <a href="https://linkedin.com/in/abir rahman anan"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -41,37 +35,68 @@
 
 ---
 
-## 🛠️ Languages and Tools
+<!-- ======================= ABOUT ======================= -->
+## 🚀 About Me
+
+- 🔭 Currently working as a **MERN Stack Developer**
+- 🌱 Learning **Next.js • TypeScript • Tailwind CSS**
+- 👨‍💻 My projects 👉 [Repositories](https://github.com/abirrahmananan?tab=repositories)
+- 💬 Ask me about **MongoDB • Express • React • Node**
+- 📫 Reach me at **abirrahmananan@gmail.com**
+- ⚡ Fun fact: *Coffee + Code = Perfect Debugging ☕💻*
+
+---
+
+<!-- ======================= SKILLS ======================= -->
+## 🛠️ Languages and Tools  
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="40" height="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40" height="40"/>
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,mongodb,mysql,tailwind,bootstrap,git,python" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+<!-- ======================= PINNED PROJECTS ======================= -->
+## 🔥 Featured Projects  
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abirrahmananan&show_icons=true&theme=radical" alt="GitHub stats" />
+  <a href="https://github.com/abirrahmananan/project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abirrahmananan&repo=project1&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/abirrahmananan/project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=abirrahmananan&repo=project2&theme=tokyonight" />
+  </a>
+</p>
+
+---
+
+<!-- ======================= GITHUB STATS ======================= -->
+## 📊 GitHub Stats  
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=abirrahmananan&show_icons=true&theme=tokyonight" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abirrahmananan&layout=compact&theme=tokyonight" alt="langs" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abirrahmananan&show_icons=true&locale=en&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abirrahmananan&theme=tokyonight" alt="streak" />
 </p>
 
+---
+
+<!-- ======================= CONTRIBUTION GRAPH ======================= -->
+## 🐍 Contribution Snake  
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
+---
+
+<!-- ======================= FUN TOUCH ======================= -->
+## ✨ Fun Touch  
+
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=abirrahmananan&theme=radical" alt="GitHub Streak" />
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40">  
+  <b style="font-size:18px;">"Code. Coffee. Repeat." 💻☕</b>  
 </p>
